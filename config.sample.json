@@ -1,0 +1,14 @@
+{
+    "sqlserver":{
+        "host": "localhost",
+        "user": "root",
+        "database": "express_test",
+        "password": ""
+    },
+    "time_token_set":600000,
+    "upload_dest":"files",
+    "pasword_secret":"suprize",
+    "bearer_token_secret":"bearer_token",
+    "refresh_token_secret":"refresh_token",
+    "server_port":3000
+}
